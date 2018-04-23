@@ -1,2 +1,2 @@
 # PROJECTS
-This is for projects
+This is for projects.
